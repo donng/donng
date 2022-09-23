@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github.com/donng/githubSNK/blob/output/github-snake.gif
+![暗色](https://github.com/donng/githubSNK/blob/output/github-snake.svg#gh-dark-mode-only)
+![亮色](https://github.com/donng/githubSNK/blob/output/github-snake.svg#gh-light-mode-only)
